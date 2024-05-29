@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alexander
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+DTSTART:20240609T021500Z
+DTEND:20240609T084500Z
+DTSTAMP:20240529T050236Z
+UID:4qpufq93uivs3rqf2v7q3v9m5s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Alexan
+ der;X-NUM-GUESTS=0:mailto:alexanderaryan.m@gmail.com
+CREATED:20240529T041306Z
+DESCRIPTION:<p>Mr. Sathyamurthy &amp\; Mrs. Chandrika and<br>Mr. Periyakaru
+ ppan &amp\; Mrs. Chandra<br>request the honor of your company<br>at the mar
+ riage of their children</p><p>Gopianand<br>&amp\;<br>Sudha Pandi</p>
+LAST-MODIFIED:20240529T041940Z
+LOCATION:https://maps.app.goo.gl/gqJ6Pa7ENsjseHbGA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gopi & Sudha -  Wedding & Reception
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
